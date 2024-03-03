@@ -28,7 +28,7 @@ const defaultMenu = {
 ⏰ *Uptime:* %muptime  
 ┗━━━━━━━━━━⬣
 %readmore
-  ≡ *B O B I Z A | M E N U*
+  ≡ *O U S S A M A | M E N U*
 `.trimStart(),
   header: '┏━━⊜ *_%category_* ',
   body: '┃⋄ %cmd %isdiamond %isPremium',
@@ -136,8 +136,8 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
 text: text,
 contextInfo: {
 externalAdReply: {
-title: 'BOBIZA BOT ♥',
-body: "أول بوت واتساب في العالم العربي 💖",
+title: 'OUSSAMA BOT ❤️‍🔥',
+body: "إضعط منا و تابعني في أنستا ❤️‍🔥",
 thumbnailUrl: 'https://telegra.ph/file/7ff4ec656131b65d2ab37.jpg',
 sourceUrl: 'https://instagram.com/oussama_15o3',
 mediaType: 1,
