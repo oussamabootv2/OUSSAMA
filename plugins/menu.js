@@ -143,7 +143,7 @@ sourceUrl: 'https://instagram.com/oussama_15o3',
 mediaType: 1,
 renderLargerThumbnail: true
 }}}, { quoted: m})
-
+conn.sendMessage(m.chat, {audio: { url: 'https://files.catbox.moe/bl3onr.mp3' }, mimetype:'audio/mpeg', ptt:true }, {quoted:m})
     /*conn.sendFile(m.chat, 'menu.png', text.trim(), m, null, )
     /*conn.sendButton(m.chat, text.trim(), '▢ DyLux  ┃ ᴮᴼᵀ\n▢ Sígueme en Instagram\nhttps://www.instagram.com/oussama15o3', pp, [
       ['ꨄ︎ Apoyar', `${_p}donate`],
