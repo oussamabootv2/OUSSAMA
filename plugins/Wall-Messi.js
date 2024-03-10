@@ -6,5 +6,5 @@ conn.sendFile(m.chat, url, 'error.jpg', `*the best* 🥶☠️ \n *messi >>>>>> 
 //conn.sendButton(m.chat, "*the best - الأفضل*", author, url, [['⚽ NEXT ⚽', `${usedPrefix + command}`]], m)}
 handler.help = ['messi']
 handler.tags = ['img']
-handler.command = /^(messi)$/i
+handler.command = /^(messi|m|goat|the-best|ml10)$/i
 export default handler
