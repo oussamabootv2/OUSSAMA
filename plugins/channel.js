@@ -4,8 +4,8 @@ m.reply(`*حسابي على الإنستغرام \n 𝑴𝒚 𝑰𝒏𝒔𝒕�
 *instagram.com/oussama_15o3*
 *تابعني هناك 👻*`)
 }
-handler.help = ['channel']
+handler.help = ['my-insta']
 handler.tags = ['infobot']
-handler.command = /^(channel)$/i
+handler.command = /^(my-insta)$/i
 
 export default handler;
